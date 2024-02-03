@@ -1,0 +1,13 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh; 
+    margin-top: 50px; 
+    background-color: #f0f0f0; 
+}
+/* Estilo para o efeito de linha sobre o texto */
+.completed {
+    text-decoration: line-through;
+}
